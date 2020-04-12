@@ -1,0 +1,36 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+ 
+#Visual Studio files
+*.[Oo]bj
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+ 
+ 
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+ 
+#Project files
+[Bb]uild/
+ 
+#Subversion files
+.svn
+ 
+# Office Temp Files
+~$*
+
+ 
+#ncrunch
+*ncrunch*
+*crunch*.local.xml
+ 
+# visual studio database projects
+*.dbmdl
